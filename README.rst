@@ -1,4 +1,4 @@
-.. image:: https://img.shields.io/pypi/v/importlib_metadata.svg
+ .. image:: https://img.shields.io/pypi/v/importlib_metadata.svg
    :target: https://pypi.org/project/importlib_metadata
 
 .. image:: https://img.shields.io/pypi/pyversions/importlib_metadata.svg
